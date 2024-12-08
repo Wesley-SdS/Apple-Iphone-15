@@ -40,7 +40,7 @@ npm install
 npm run dev
 ```
 
-Isso irá rodar o projeto localmente na URL `http://localhost:3000`.
+Isso irá rodar o projeto localmente na URL `http://localhost:5173/`.
 
 ## Funcionalidades
 
